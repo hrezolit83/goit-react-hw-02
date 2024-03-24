@@ -1,0 +1,18 @@
+.text {
+  font-size: 22px;
+}
+
+.good {
+  color: green;
+  font-weight: 500;
+}
+
+.neutral {
+  color: yellow;
+  font-weight: 500;
+}
+
+.bad {
+  color: red;
+  font-weight: 500;
+}
